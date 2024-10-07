@@ -1,0 +1,13 @@
+.container{
+    background-color: orangered
+}
+.extra{
+    background-color: cadetblue;
+    border-bottom: dashed orangered 10px;
+}
+.retired{
+    background-color: aquamarine;
+    border-bottom: dashed blueviolet 10px;
+    border-left: dashed blueviolet 10px;
+    border-right: dashed blueviolet 10px;
+    }
